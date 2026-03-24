@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Asiya Zehra 👋
 
-<!--
-**AsiyaZehra/AsiyaZehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Marketing Analytics professional with experience in SEO, 
+Python, SQL, Tableau, and AI-driven discovery platforms.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+`Python` `SQL` `Tableau` `Google Analytics` `Ahrefs` `SEO` `Power BI` `Excel`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 📊 [Customer Segmentation Analysis](https://github.com/AsiyaZehra/customer-segmentation-analysis) 
+  — K-means clustering for e-commerce marketing targeting
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/asiya-zehra)
+- zehraasiya977@gmail.com
